@@ -26,7 +26,3 @@ Using **Matplotlib**, we visualize gaps between training and placement numbers t
 - Some states dominate placements, while others lag behind.  
 - Highlights the need for **better industry linkages** in low-placement states.  
 
-## 🚀 How to Run
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/<your-username>/pmkvy-data-visualization.git
